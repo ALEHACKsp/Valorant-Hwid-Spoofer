@@ -53,3 +53,7 @@
 * NetworkAdapterGUID
 * cleaning usn journals
 * cleaning system token journals
+
+# Photo
+![image](https://user-images.githubusercontent.com/84600070/119198987-5a24f200-ba9b-11eb-9bb1-5170950472c4.png)
+
