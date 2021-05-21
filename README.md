@@ -12,7 +12,7 @@
 * SerialNumber
 * Firware
 * Disksize
-* * Volum Id
+* Volum Id
 * SysteamBios
 * PartSerial
 * PartGUID
